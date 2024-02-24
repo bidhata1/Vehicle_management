@@ -21,8 +21,15 @@ $ npm run start
 
 ## End point for vehicle
 
-  install npm package swagger api
+  install dependency swagger api
   localhost:3000/api
+
+## for database
+  create database in postgre sql
+  edit on .env file
+  then run prisma
+ $npm prisma migrate dev --name init
+
 
 
 
